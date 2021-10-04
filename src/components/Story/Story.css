@@ -1,0 +1,15 @@
+.story {
+    /* margin: auto 20px; */
+    max-width: 1000px;
+    margin: 20px auto;
+    padding: 20px;
+    border: solid 2px gray;
+}
+
+.story > img {
+    height: 300px;
+    max-width: 400px;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto;
+}

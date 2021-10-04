@@ -1,0 +1,35 @@
+.main > h1 {
+    text-align: center;
+}
+
+.main__search {
+    /* display: flex;
+    align-items: center;
+    text-align: center;
+    margin: 20px auto;
+    padding: 10px;
+    height: 30px;
+    width: 200px; */
+    /* border: 1px solid lightgray; */
+    /* border-radius: 999px; */
+}
+
+.main__search > input {
+    /* font-family: inherit !important;
+    border: none;
+    font-size: 16px;
+    padding: 10px;
+    outline-width: 0; */
+}
+
+.main__article {
+    border: 2px solid gray;
+    margin: 10px;
+    padding: 0 20px;
+}
+
+.main__article:hover {
+    cursor: pointer;
+    border-color: #1976d2;
+
+}
