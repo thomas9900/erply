@@ -1,5 +1,6 @@
-# npm i
-# npm start
+# Kuidas käivitada:
+### `npm i`
+### `npm start`
 
 
 # Getting Started with Create React App
